@@ -40,7 +40,6 @@ This dashboard includes multiple analysis pages:
 | **Power BI Desktop** | Data modeling & dashboard creation |
 | **Power Query** | ETL, cleaning & transformation |
 | **DAX** | Calculations (Median Salary, KPI formats) |
-| **JSON Theme** | Colors, borders & formatting standardization (optional) |
 
 
 ---
